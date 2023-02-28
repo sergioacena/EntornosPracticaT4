@@ -10,6 +10,10 @@ public class Personaje {
 		this.danio = danio;
 	}
 	
+	/**
+	 * Método para obtener el daño del personaje
+	 * @return
+	 */
 	public int getDanio() {
 		return danio;
 	}
