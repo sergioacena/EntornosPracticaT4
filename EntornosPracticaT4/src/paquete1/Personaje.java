@@ -5,6 +5,11 @@ public class Personaje {
 	private int vida;
 	private int danio;
 	
+	/**
+	 * Clase para crear un personaje introduciendo vida y daño por parámetros.
+	 * @param vida
+	 * @param danio
+	 */
 	public Personaje(int vida, int danio) {
 		this.vida = vida;
 		this.danio = danio;
