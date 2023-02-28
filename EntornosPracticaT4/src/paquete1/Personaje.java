@@ -19,7 +19,7 @@ public class Personaje {
 	}
 
 	/**
-	 * METODO DE QUITAR VIDA
+	 * METODO DE QUITAR VIDA - CAMBIO1
 	 * @param danio
 	 */
 	public void quitarVida(int danio) {
